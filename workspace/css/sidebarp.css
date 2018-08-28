@@ -1,0 +1,30 @@
+.sidebar {
+}
+
+.sidebar nav {
+  margin:0;
+  margin-left: -0.95rem;
+  margin-right: -0.95rem;
+}
+
+.mouseenter {
+  background-color: #ffc107;
+}
+
+.texto-negro {
+  color: black;
+}
+
+.bg-grey {
+  background-color: #343a40;
+}
+
+.sidebar a:focus {
+  background-color: #ffc107;
+}
+
+.list-group-item.active{
+  background-color: #ffc107 !important;
+  border-color: #ffc107 !important;
+  color: black !important;
+}

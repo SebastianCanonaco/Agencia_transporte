@@ -1,0 +1,49 @@
+body {
+    /**background-color: rgb(173, 207, 206);*/
+}
+
+.foto-header {
+    position: relative;
+    text-align: center;
+}
+
+.email {
+	color: grey;
+}
+
+#googleMap{
+	background-color: grey;
+	width:100%;
+	height:400px;
+}
+
+.logo {
+	margin-top: -30px;
+	margin-bottom: -30px;
+}
+
+footer, footer a {
+	color: white;
+}
+
+.pie li a:hover {
+    color: grey;
+    list-style-type: none;
+}
+
+.bg-black{
+    background-color: black;
+}
+
+.formulario input:focus, .formulario textarea:focus{
+    border-color:yellow;
+    box-shadow: 0 1px 1px yellow inset, 0 0 8px yellow;
+}
+
+.bg-image-full {
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}

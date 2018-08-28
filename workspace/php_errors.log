@@ -1,0 +1,43 @@
+[13-Jul-2018 20:45:59 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ubuntu/workspace/prueba/index.php on line 6
+[13-Jul-2018 20:45:59 UTC] PHP Stack trace:
+[13-Jul-2018 20:45:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/prueba/index.php:0
+[13-Jul-2018 20:45:59 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/prueba/index.php:6
+[13-Jul-2018 20:46:20 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ubuntu/workspace/prueba/index.php on line 6
+[13-Jul-2018 20:46:20 UTC] PHP Stack trace:
+[13-Jul-2018 20:46:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/prueba/index.php:0
+[13-Jul-2018 20:46:20 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/prueba/index.php:6
+[13-Jul-2018 20:47:30 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ubuntu/workspace/prueba/index.php on line 6
+[13-Jul-2018 20:47:30 UTC] PHP Stack trace:
+[13-Jul-2018 20:47:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/prueba/index.php:0
+[13-Jul-2018 20:47:30 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/prueba/index.php:6
+[13-Jul-2018 20:47:56 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ubuntu/workspace/prueba/index.php on line 6
+[13-Jul-2018 20:47:56 UTC] PHP Stack trace:
+[13-Jul-2018 20:47:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/prueba/index.php:0
+[13-Jul-2018 20:47:56 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/prueba/index.php:6
+[13-Jul-2018 20:48:39 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ubuntu/workspace/prueba/index.php on line 6
+[13-Jul-2018 20:48:39 UTC] PHP Stack trace:
+[13-Jul-2018 20:48:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/prueba/index.php:0
+[13-Jul-2018 20:48:39 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/prueba/index.php:6
+[13-Jul-2018 20:49:21 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ubuntu/workspace/prueba/index.php on line 6
+[13-Jul-2018 20:49:21 UTC] PHP Stack trace:
+[13-Jul-2018 20:49:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/prueba/index.php:0
+[13-Jul-2018 20:49:21 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/prueba/index.php:6
+[13-Jul-2018 21:15:54 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/prueba/usuarios_borrar.php on line 11
+[13-Jul-2018 21:15:54 UTC] PHP Stack trace:
+[13-Jul-2018 21:15:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/prueba/usuarios_borrar.php:0
+[13-Jul-2018 21:15:54 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/prueba/usuarios_borrar.php:11
+[13-Jul-2018 21:17:00 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/prueba/usuarios_borrar.php on line 11
+[13-Jul-2018 21:17:00 UTC] PHP Stack trace:
+[13-Jul-2018 21:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/prueba/usuarios_borrar.php:0
+[13-Jul-2018 21:17:00 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/prueba/usuarios_borrar.php:11
+[13-Jul-2018 21:17:06 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/prueba/usuarios_borrar.php on line 11
+[13-Jul-2018 21:17:06 UTC] PHP Stack trace:
+[13-Jul-2018 21:17:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/prueba/usuarios_borrar.php:0
+[13-Jul-2018 21:17:06 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/prueba/usuarios_borrar.php:11
+[13-Jul-2018 21:43:28 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/ubuntu/workspace/prueba/usuarios_editar.php on line 6
+[07-Aug-2018 20:49:24 UTC] PHP Warning:  require(head.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/js/ejemplo.php on line 2
+[07-Aug-2018 20:49:24 UTC] PHP Stack trace:
+[07-Aug-2018 20:49:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/ejemplo.php:0
+[07-Aug-2018 20:49:24 UTC] PHP Fatal error:  require(): Failed opening required 'head.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/js/ejemplo.php on line 2
+[07-Aug-2018 20:49:24 UTC] PHP Stack trace:
+[07-Aug-2018 20:49:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/ejemplo.php:0
